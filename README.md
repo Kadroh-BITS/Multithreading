@@ -1,2 +1,2 @@
 # Multithreading
-Learning Multithreading in Java through a Udemy course
+Learning Multithreading in Java
